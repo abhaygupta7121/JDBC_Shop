@@ -1,4 +1,4 @@
-README for Shop Management Application
+README for #Shop Management Application
 Overview
 This Java-based application is designed to manage a shop and its products. The application allows you to:
 
